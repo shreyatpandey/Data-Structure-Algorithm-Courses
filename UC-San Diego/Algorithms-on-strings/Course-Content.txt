@@ -1,0 +1,26 @@
+1. Herding Patterns into Trie
+2. Trie Construction - Pseudocode
+3. Herding text into Suffix Trie
+4. Suffix Trees
+5. Tries and Suffix Trees
+6. Burrows-Wheelers Transform
+7. Inverting Burrows-Wheelers Transform
+8. Using BWT for Pattern Matching
+9. Suffix Arrays
+10. Pattern Matching with Suffix Arrays
+11. Knuth-MorrisPratt
+  a. Exact Pattern Matchin
+  b. Skipping Position
+  c. Safe Shift
+  d. Prefix function
+  e. Computing prefix function
+  f. Implementation
+12. Suffix Array Construction
+  a. Suffix Array
+  b. General construction strategy
+  c. Counting Sort
+  d. Sorted Doubling Cycling Shift
+  e. Sort Double Implementation
+  f. Update Classes
+  g. Building Suffix Array
+
