@@ -1,0 +1,1 @@
+Link to understand Suffix Trees:- https://bioinformaticsalgorithms.com/faqs/bwt.html
